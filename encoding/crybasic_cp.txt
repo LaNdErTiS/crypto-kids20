@@ -1,5 +1,7 @@
 TASK - https://crypto-kids20.forkbomb.ru/tasks/crybasic_cp
 
+STRING - "╨Т╤Б╨╡╨╝ ╨╖╨┤╨░╤А╨╛╨▓╨░! ╨Я╤А╨╡╨┤╤Б╤В╨░╨▓╨╗╤П╨╡╨╝ ╨╜╨░╤И ╨╜╨╛╨▓╤Л╨╣ ╨д╨╗╨░╨│: ╤В╤А╨╕ ╤И╨╡╤Б╤В╤М ╤И╨╡╤Б╤В╤М ╤Б╨╡╨╝╤М ╨╜╨╛╨╗╤М ╨┤╨▓╨░ ╨▓╨╛╤Б╨╡╨╝╤М"
+
 HINT - use https://www.online-decoder.com
 
 SOLUTION - 3667028
