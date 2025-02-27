@@ -1,0 +1,7 @@
+TASK - https://crypto-kids20.forkbomb.ru/tasks/crybasic_bin64
+
+STRING - https://crypto-kids20.forkbomb.ru/files/cry/basic/image.bin64
+
+HINT - use https://www.base64decode.org/ as at the end of line we have "==", then you can see jfif at the first decoded line, this is a hint that its a picture, try save into jpeg file
+
+SOLUTION - SPBCTF_us3_python_for_BaSe64
