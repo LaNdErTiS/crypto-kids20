@@ -1,0 +1,8 @@
+TASK - https://crypto-kids20.forkbomb.ru/tasks/crybasic_RN
+
+STRING - https://crypto-kids20.forkbomb.ru/files/cry/basic/bb7154f15a0bd88014167d679423031a.htm
+
+HINT - first need convert roman numeral -> default number, next you need to select the desired encoding for the obtained values, tried Ascii with mod 128 got "PCFRM5F4u_335" but it was wrong :/
+..  but close..
+
+SOLUTION - SPBCTF_R1Mu5_F14Gu5_H3R315
