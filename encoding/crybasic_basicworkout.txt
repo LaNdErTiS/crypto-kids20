@@ -1,0 +1,13 @@
+TASK - https://crypto-kids20.forkbomb.ru/tasks/crybasic_basicworkout
+
+STRING - https://basicworkout.forkbomb.ru/
+
+HINT:
+1) 10011100100010011110 - base2 (binary)
+2) ...== - base64
+3) SÝa0ÏAà }4q0½¸£1Ô£ï°°¢y5Ì3º¹Òå{T¼ýr"ßÐ¥ëÂk@ÁÈÚ"È' - base256 (ascii)
+4) Uses A-Z, 2-7 (skips 0,1,8) - base32
+5) low case + digit - base16 (hex)
+6) by elimination - base58
+
+SOLUTION - spbctf{b4s1c_flag_1s_s0_bas1c}
