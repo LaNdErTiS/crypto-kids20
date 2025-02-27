@@ -1,0 +1,7 @@
+TASK - https://crypto-kids20.forkbomb.ru/tasks/crybasic_ml
+
+STRING - https://crypto-kids20.forkbomb.ru/files/cry/basic/a4b0d3_ml.txt
+
+HINT - use https://mothereff.in/html-entities
+
+SOLUTION - spbctf{*mL_eNt1t1t1t1t1t1t1t1t11t1tt1}
