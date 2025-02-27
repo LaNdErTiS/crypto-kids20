@@ -1,0 +1,7 @@
+TASK - https://crypto-kids20.forkbomb.ru/tasks/crybasic_warmup
+
+STRING - https://crypto-kids20.forkbomb.ru/files/cry/basic/35aaba40df97b6ae491fb0564f7dfe36.txt
+
+HINT - use https://www.base64decode.org/ as at the end of line we have "=="
+
+SOLUTION - 107d9d2175de7e82106313328ca0e291
