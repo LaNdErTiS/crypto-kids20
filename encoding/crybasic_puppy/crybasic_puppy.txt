@@ -1,0 +1,7 @@
+TASK - https://crypto-kids20.forkbomb.ru/tasks/crybasic_puppy
+
+STRING - https://crypto-kids20.forkbomb.ru/files/cry/basic/9bfbd1_puppy.txt
+
+HINT - OMG, Generative artificial intelligence couldn't even help me until i google "puppycode domain"
+
+SOLUTION - spbctf{ты_действительно_думаешь_что_флаг_такой_простой?}
