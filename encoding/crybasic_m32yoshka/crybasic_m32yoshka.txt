@@ -1,0 +1,7 @@
+TASK - https://crypto-kids20.forkbomb.ru/tasks/crybasic_m32yoshka
+
+STRING - https://crypto-kids20.forkbomb.ru/files/cry/basic/f97b2c687b872458fb400e03f0d37646.txt
+
+HINT - obviously the source string is base32, after none of the known encodings fit, I had to try simply converting int to characters
+
+SOLUTION - c5edfe424435e59e90bb9652878eb642
