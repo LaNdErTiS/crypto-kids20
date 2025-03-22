@@ -1,0 +1,7 @@
+TASK - https://crypto-kids20.forkbomb.ru/tasks/crybasic_caesar
+
+STRING - Дгьшефцагё! Иафч: шщцужр цгёщбр жеэ гшэв жеэ жеэ ёщбр гшэв шцф жеэ!
+
+HINT - ... caesar cipher
+
+SOLUTION - 9831337123
